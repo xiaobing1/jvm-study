@@ -224,4 +224,4 @@ Serial Old是Serial收集器的老年代版本, 同样是一个单线程收集�
 1、Jdk5以及之前版本中与Parallel Scavenge收集器搭配使用(PS MarkSweep)
 2、作为CMS收集器发生失败时的后备预案, 在并发收集发生Concurrent Mode Failure时使用。
 
-#### 
+#### Parallel Old收集器
