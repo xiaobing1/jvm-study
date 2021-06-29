@@ -1,0 +1,9 @@
+scanoops 0x0000028817600000 0x0000028817900000 JHSDBTest$ObjectHolder
+
+scanoops 0x0000014967c00000 0x000002b961c00000 JHSDBTest$ObjectHolder
+
+scanoops 0x000002114e400000 0x000002114ee00000 com.test.tool.JHSDBTest$ObjectHolder
+
+hsdb> scanoops 0x0000014967c00000 0x0000014967f00000 com.test.tool.JHSDBTest$ObjectHolder
+0x0000014967c3b668 com/test/tool/JHSDBTest$ObjectHolder
+0x0000014967c3b688 com/test/tool/JHSDBTest$ObjectHolder

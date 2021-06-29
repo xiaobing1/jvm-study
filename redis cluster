@@ -1,0 +1,10 @@
+redis 节点通信
+gossip协议, 所有节点都持有一份元数据
+每个master会自己维护一份元数据
+
+hash使用场景
+
+
+redis一致性hash
+
+redis setnx实现
